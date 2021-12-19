@@ -4,12 +4,12 @@ Brute-Force-Connected
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/Brute-Force-instagram
+sudo git clone https://github.com/vv1ck/Brute-Force-Connected
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd Brute-Force-instagram
+cd Brute-Force-Connected
 ```
 <!--END_SECTION:waka-->
 -----------------------
