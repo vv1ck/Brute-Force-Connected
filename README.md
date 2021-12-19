@@ -23,7 +23,7 @@ pio install threading
 - Then run the tool :
 <!--START_SECTION:waka-->
 ```
-python3 Brute-nsta.py
+python3 BF-connected2.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
