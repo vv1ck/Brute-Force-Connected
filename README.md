@@ -35,7 +35,7 @@ pio install threading
 python3 BF-connected2.py
 ```
 <!--END_SECTION:waka-->
----------------------
+--------------------
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
 -
 seee
