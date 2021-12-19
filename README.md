@@ -1,5 +1,4 @@
 # Brute-Force-Connected
-Brute-Force-Connected
 -
 <img src="/conte.png"></img>
 Guess the password for Connected accounts
