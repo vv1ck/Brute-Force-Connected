@@ -1,6 +1,16 @@
 # Brute-Force-Connected
 Brute-Force-Connected
 -
+<img src="/conte.png"></img>
+Guess the password for Connected accounts
+-
+Tat :
+- Create a new file and put usernames and passwords in it
+- Example : joker:1234
+- Example : vv1ck:6293
+
+-----------------------
+
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
