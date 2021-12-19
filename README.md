@@ -3,7 +3,7 @@
 <img src="/conte.png"></img>
 Guess the password for Connected accounts
 -
-Tat :
+the use :
 - Create a new file and put usernames and passwords in it
 - Example : joker:1234
 - Example : vv1ck:6293
